@@ -3,7 +3,7 @@ Overview
 
 The Smart Laundry Booking System is a web-based application built using React.js to simplify the process of booking laundry services. The project focuses on providing a clean user interface, smooth booking flow, and reusable frontend components. It was developed as a personal project to strengthen practical skills in frontend development, state management, and responsive design.
 
-Features
+# Features
 
 User-friendly interface for booking laundry services
 
@@ -43,7 +43,7 @@ SMART-LAUNDRY-BOOKING-SYSTEM
 
 (Component names may vary depending on implementation.)
 
-How It Works
+# How It Works
 
 Users select laundry services from the available options.
 
@@ -69,10 +69,9 @@ npm install
 # Start the development server
 npm start
 
-The application will run at:
-http://localhost:3000
 
-Learning Outcomes
+
+# Learning Outcomes
 
 Gained hands-on experience with React functional components and hooks
 
@@ -82,10 +81,3 @@ Learned to design responsive user interfaces
 
 Practiced organizing a frontend project with a clean folder structure
 
-Future Improvements
-
-Backend integration for storing booking data
-
-User authentication and booking history
-
-Admin dashboard for managing orders and services
